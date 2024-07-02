@@ -22,3 +22,7 @@ step 4: git push = pushes changes to Github / Online
 # Test 5
 
 This is to test the Auto save feature!
+
+# Test 6
+
+This is yet another test to get familiar with Git and VSCode.
