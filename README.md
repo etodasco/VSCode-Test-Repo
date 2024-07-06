@@ -26,3 +26,7 @@ This is to test the Auto save feature!
 # Test 6
 
 This is yet another test to get familiar with Git and VSCode.
+
+# Test 7
+
+This is test number 7
